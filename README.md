@@ -25,7 +25,7 @@ The changes for each release are outlined on [the Github releases page](https://
 
 You can also try out the [Navigation Playground app](https://exp.host/@react-navigation/NavigationPlayground) to get a sense for some of the tools built in to React Navigation. The "Fundamentals" in the documentation also include examples you can play with.
 
-## FAQs
+
 
 #### I'm having troubles using the library, what can I do?
 
